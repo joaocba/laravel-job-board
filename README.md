@@ -24,7 +24,17 @@ A simple job board application built using Laravel 10 and TailwindCSS. It allows
 
 ## Screenshots 🖼️
 
-![alt text](?raw=true)
+![alt text](https://github.com/joaocba/laravel-job-board/blob/main/screenshots/job-board-joblist.png?raw=true)
+
+![alt text](https://github.com/joaocba/laravel-job-board/blob/main/screenshots/job-board-login.png?raw=true)
+
+![alt text](https://github.com/joaocba/laravel-job-board/blob/main/screenshots/job-board-jobapply.png?raw=true)
+
+![alt text](https://github.com/joaocba/laravel-job-board/blob/main/screenshots/job-board-myapplications.png?raw=true)
+
+![alt text](https://github.com/joaocba/laravel-job-board/blob/main/screenshots/job-board-myjobs.png?raw=true)
+
+![alt text](https://github.com/joaocba/laravel-job-board/blob/main/screenshots/job-board-editjob.png?raw=true)
 
 ## Usage 🛠️
 
