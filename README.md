@@ -70,7 +70,3 @@ npm run dev
 ## Contributing 🤝
 
 Contributions are welcome! If you'd like to contribute to this project, please create a pull request for enhancements or bug fixes. Feel free to open issues for feature requests or to report any problems you encounter.
-
-## License 📝
-
-This project is licensed under the [MIT License](insert_license_link_here).
